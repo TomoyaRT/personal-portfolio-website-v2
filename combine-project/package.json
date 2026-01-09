@@ -1,0 +1,31 @@
+{
+  "name": "combine-project",
+  "version": "1.0.0",
+  "description": "Interactive 3D Laptop Navigation Scene - Portfolio Website",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "three.js",
+    "react",
+    "3d",
+    "portfolio"
+  ],
+  "author": "Tomoya",
+  "license": "MIT",
+  "dependencies": {
+    "@react-spring/three": "^10.0.3",
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.5.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "three": "^0.182.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
+    "vite": "^7.3.1"
+  }
+}
